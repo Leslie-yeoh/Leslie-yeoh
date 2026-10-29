@@ -52,7 +52,7 @@ Computing student and React Native junior developer.
 
 ## GitHub stats
 
-![Leslie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leslie-yeoh&show_icons=true&theme=default)
+<!--![Leslie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leslie-yeoh&show_icons=true&theme=default)-->
 
 To be continue....
 
